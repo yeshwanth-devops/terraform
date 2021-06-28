@@ -9,3 +9,8 @@ After you configure authentication with Azure, just init and apply (no inputs ar
 `terraform init`
 
 `terraform apply`
+
+
+
+
+Need to add the username of yours and Add the private and public keys of your local
